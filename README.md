@@ -103,6 +103,20 @@ Check out the live application at [Library Token System](https://nirvedh.pythona
    - **Password**: admin
 2. **Security Dashboard**: Once logged in as an admin, you will be redirected to the security dashboard at `https://nirvedh.pythonanywhere.com/security_dashboard/`.
 
+## Screenshots
+
+### Login Page
+![Login Page](images/login.png)
+
+### Registration Page
+![Registration Page](images/register.png)
+
+### Student Dashboard
+![Student Dashboard](images/student_dashboard.png)
+
+### Security Dashboard
+![Assign_Compartment](images/assign_compartment.png)
+![Deallocate_Compartment](images/deallocate_compartment.png)
 
 ## Contributing
 
